@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kukur\\prwork1\\prwork1_git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E82F49-47D8-45B6-AC33-DFB4FB08CD94}|prwork1_git.vcxproj|C:\\Users\\kukur\\prwork1\\prwork1_git\\prwork1_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58E82F49-47D8-45B6-AC33-DFB4FB08CD94}|prwork1_git.vcxproj|solutionrelative:prwork1_git.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prwork1_git.cpp",
+              "DocumentMoniker": "C:\\Users\\kukur\\prwork1\\prwork1_git\\prwork1_git.cpp",
+              "RelativeDocumentMoniker": "prwork1_git.cpp",
+              "ToolTip": "C:\\Users\\kukur\\prwork1\\prwork1_git\\prwork1_git.cpp",
+              "RelativeToolTip": "prwork1_git.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T06:56:26.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
