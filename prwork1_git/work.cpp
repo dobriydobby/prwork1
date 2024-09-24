@@ -9,9 +9,9 @@ int main() {
 	std::cout << "b: ";
 	std::cin >> b;
 
-	c = a + b;
+	c = a - b;
 
-	std::cout << "a + b = "<< c;
+	std::cout << "a - b = "<< c;
 
 
 	return 0;
